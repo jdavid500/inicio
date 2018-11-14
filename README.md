@@ -1,2 +1,2 @@
-# primero
+# inicio
 GitHub Pages
